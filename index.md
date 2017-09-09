@@ -1,7 +1,6 @@
 # 송재영
 ## JAVA 개발
 
-### Contact
 [![이메일](https://img.shields.io/badge/email-mirror4ego@naver.com-00059f.svg)](mailto:mirror4ego@naver.com)
 [![블로그](https://img.shields.io/badge/blog-mirror4ego.tistory.com-0229bf.svg)](https://mirror4ego.tistory.com/)
 [![깃허브](https://img.shields.io/badge/github-github.com/mirror4ego-0229bf.svg)](https://github.com/mirror4ego/)
@@ -22,7 +21,7 @@
 | HTML       | HTML5			 	         |
 | CSS        | Semantic-UI		             |
 
-| 그 외     	| 설명			                              	|
+| 그 외     	| 			                         	     	|
 |----------	|-------------------------------------------	|
 | OS       	| Mac OSx, Windows, Linux(Ubuntu)           	|
 | Editors   | eclipse, IntelliJ IDEA, WebStorm            	|
