@@ -1,39 +1,28 @@
-## Welcome to GitHub Pages
+# 송재영
+## JAVA 개발
 
-You can use the [editor on GitHub](https://github.com/mirror4ego/mirror4ego.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Contact
+[![이메일](https://img.shields.io/badge/email-mirror4ego@naver.com-00059f.svg)](mailto:mirror4ego@naver.com)
+[![블로그](https://img.shields.io/badge/blog-mirror4ego.tistory.com-0229bf.svg)](https://mirror4ego.tistory.com/)
+[![깃허브](https://img.shields.io/badge/github-github.com/mirror4ego-0229bf.svg)](https://github.com/mirror4ego/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 프로젝트
+ - [여행플래너](http://mirror4ego.iptime.org:8080/web) - 교육원프로젝트 [![github](https://img.shields.io/badge/github-TripPlanner-lightgrey.svg)](https://github.com/mirror4ego/FinalKH)
+    + 주제 : 국내 여행 플래너
+      + 역할: UX/UI 설계, Front&Back-end 설계, 서버 환경 세팅
+      + 프론트엔드: Semantic-UI, Jquery(Ajax)
+      + 백엔드: Java, Spring, Oracle 11g 
 
-[이력서](resume)
+### 기술
 
-### Markdown
+| 언어		 | 프레임워크/도구		             |
+|------------|-------------------------------|
+| JAVA    	 | Spring, Swing 				 |
+| Javascript | Jquery, Angular.js            |
+| HTML       | HTML5			 	         |
+| CSS        | Semantic-UI		             |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirror4ego/mirror4ego.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| 그 외     	| 설명			                              	|
+|----------	|-------------------------------------------	|
+| OS       	| Mac OSx, Windows, Linux(Ubuntu)           	|
+| Editors   | eclipse, IntelliJ IDEA, WebStorm            	|
