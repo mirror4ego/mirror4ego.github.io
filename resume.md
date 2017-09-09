@@ -29,7 +29,7 @@
       + Frontend: materialize-css, Bootstrap3.0, Sass
       + Backend: Django, PostgreSQL
 
-### Techincal Skills
+### 기술
 
 | Languages  | Frameworks/Tools              |
 |------------|-------------------------------|
