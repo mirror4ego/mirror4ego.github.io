@@ -1,16 +1,17 @@
 # 송재영
-## JAVA 개발자
+## JAVA 개발
 
 ### 연락
-[![이메일](https://img.shields.io/badge/email-yongdoree-00059f.svg)](mailto:mirror4ego@naver.com)
-[![블로그](https://img.shields.io/badge/Personal_blog-blog.paulsoh.co-0229bf.svg)](https://mirror4ego.github.io/)
+[![이메일](https://img.shields.io/badge/email-mirror4ego@naver.com-00059f.svg)](mailto:mirror4ego@naver.com)
+[![블로그](https://img.shields.io/badge/blog-mirror4ego.tistory.com-0229bf.svg)](https://mirror4ego.tistory.com/)
+[![깃허브](https://img.shields.io/badge/github-github.com/mirror4ego-0229bf.svg)](https://github.com/mirror4ego/)
 
 ### 프로젝트
- - [여행플래너](https://moxie.kr) - 개인프로젝트 [![github](https://img.shields.io/badge/github-moxie-lightgrey.svg)](https://github.com/paulsoh/moxie/tree/develop)
-    + 주제 : Crowd funding website mockup built with Django
-      + 역할: UX/UI design, Front, Back-end design, Server deployment(AWS EC2, S3, Cloudfront, NginX)
-      + 프론트엔드: Bootstrap3-sass, Sass, Jquery(Ajax), React.js
-      + 백엔드: Django, Django rest framework, PostgreSQL, 
+ - [여행플래너](https://mirror4ego.iptime.org:8080/web) - 교육원프로젝트 [![github](https://img.shields.io/badge/github-TripPlanner-lightgrey.svg)](https://github.com/mirror4ego/FinalKH)
+    + 주제 : 국내 여행 플래너
+      + 역할: UX/UI 설계, Front&Back-end 설계, 서버 환경 세팅
+      + 프론트엔드: Semantic-UI, Jquery(Ajax)
+      + 백엔드: Java, Spring, Oracle 11g 
 
 ### 기술
 
