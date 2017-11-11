@@ -19,7 +19,7 @@
 | JAVA    	 | Spring, Swing 				 |
 | Javascript | Jquery, Angular.js            |
 | HTML       | HTML5			 	         |
-| CSS        | Semantic-UI		             |
+| CSS        | Semantic-UI		11             |
 
 | 그 외     	| 			                         	     	|
 |----------	|-------------------------------------------	|
