@@ -11,7 +11,6 @@
         <div class="mdl-layout__header-row">
           <span class="mdl-layout-title">
             {% if page.title %}<h1 id="page-title" class="mdl-typography--title">{{ page.title }}</h1>{% endif %}
-            {% if page.title %}<h1 id="page-title" class="mdl-typography--title">{{ page.title }}</h1>{% endif %}
           </span>
         </div>
       </header>
@@ -19,20 +18,16 @@
         <span class="mdl-layout-title"><a id="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></span>
         <nav class="mdl-navigation">
           {% include menu.html %}
-           {% include menu.html %}
-            {% include menu.html %}
         </nav>
       </div>
       <main class="mdl-layout__content">
         <div class="page-content">
           <div class="content">
             {{ content }}
-            {{ content }}
           </div>
         </div>
       </main>
       <footer>
-        {% include footer.html %}
         {% include footer.html %}
       </footer>
     </div>
