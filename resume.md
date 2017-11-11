@@ -21,6 +21,7 @@
 | Javascript | Jquery, Angular.js            |
 | HTML       | HTML5			 	         |
 | CSS        | Semantic-UI		             |
+| ETC        | 그밖에		         		 	 |
 
 | 그 외     	| 설명			                              	|
 |----------	|-------------------------------------------	|
