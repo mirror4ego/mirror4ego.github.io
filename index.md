@@ -1,4 +1,4 @@
-# MaterialDocs
+# TechNote
 
 **Rate this theme on [ThemeJekyll](https://themejekyll.github.io/theme/materialdocs/)!**
 

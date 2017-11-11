@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-materialdocs"
+  spec.name          = "jekyll-technote"
   spec.version       = "1.1.0"
-  spec.authors       = ["James King"]
-  spec.email         = ["hello@chromaticaldesign.com"]
+  spec.authors       = ["mirror4ego"]
+  spec.email         = ["mirror4ego@gmail.com"]
 
-  spec.summary       = "MaterialDocs is a material two-column Jekyll theme designed for documentation websites."
-  spec.homepage      = "https://github.com/chromatical/jekyll-materialdocs"
+  spec.summary       = "TechNote is a three-column Jekyll theme designed for documentation websites."
+  spec.homepage      = "https://mirror4ego.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_layouts|_includes|LICENSE|README)}i) }
