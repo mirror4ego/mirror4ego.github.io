@@ -2,7 +2,7 @@
 {% for node in sorted_pages %}
   {% if node.menu or node.title %}
     {% unless node.parent %}
-      <a class="mdl-navigation__link parent {% if node.url == page.url or page.parent == node.path %}is-active{% endif %}" href="{{ node.url | absolute_url }}">{% if node.menu %}{{ node.menu }}{% else %}{{ node.title }}{% endif %}</a>
+      <a class="mdl-navigation__link parent {% if node.url == page.url or page.parent == node.path %}is-active{% endif %}" href="{{ node.url | absolute_url }}">{% if node.menu %}{{ node.menu }}{% else %}{{ aaa }}{% endif %}</a>
       {% for child in sorted_pages %}
         {% if node.menu or node.title %}
           {% if child.parent %}
