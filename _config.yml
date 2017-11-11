@@ -251,12 +251,22 @@ defaults:
       comments: # true
       share: true
       related: true
-       
-defaults:
   # _docs
   - scope:
       path: ""
       type: docs
     values:
       sidebar:
-        nav: "docs"
+        nav: "docs"       
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
