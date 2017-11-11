@@ -253,6 +253,8 @@ defaults:
       related: true
       sidebar: 
         nav: "docs"
+      sidebar:
+        nav: "foo"
         
   # _pages
   - scope:
