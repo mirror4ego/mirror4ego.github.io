@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "mirror4ego"
+  avatar           : "/assets/images/avatar.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "개발자"
+  location         : "서울"
+  email            : "mirror4ego.github.io"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/mirror4ego/"
   gitlab           :
   google_plus      :
   keybase          :
