@@ -1,14 +1,22 @@
+<<<<<<< HEAD
 theme: jekyll-note
 
 # Site settings
 name: bbugnsang's boaring blog
 baseurl: "" # the subpath of your site, e.g. /blog/
+=======
+# Site settings
+name: bbugnsang's boaring blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+>>>>>>> 230a7b4d854e399f20af7becc5fc71b7db601bf7
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   css_class: 'highlight'
+<<<<<<< HEAD
 # Disqus Comment
 comments: true
 # Google Analytics
@@ -17,5 +25,20 @@ google_analytics:
 Search:
   - '/search/'
 url: https://bbungsang.github.io
+=======
+
+# Disqus Comment
+comments: true
+
+# Google Analytics
+google_analytics:
+  id: UA-100042262-1
+
+Search:
+  - '/search/'
+
+url: https://bbungsang.github.io
+
+>>>>>>> 230a7b4d854e399f20af7becc5fc71b7db601bf7
 # paginate: 7
 # paginate_path: /page:num/
