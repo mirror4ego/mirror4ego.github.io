@@ -5,6 +5,7 @@ tags: [index]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 메인페이지.
+comments: false
 ---
 
 ## Build the Theme
