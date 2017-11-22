@@ -14,14 +14,17 @@ topnav_dropdowns:
   folders:
     - title: Dev
       folderitems:
-        - title: Spring Framework
-          external_url: https://talk.jekyllrb.com
-        - title: Javascript
-          url: /tag_troubleshooting.html
-          output: web   
-        - title: Java
+        - title: 빅데이터
           url: /tag_troubleshooting.html
           output: web
-        - title: Swing
-          url: /tag_troubleshooting.html
-          output: web         
+#        - title: Spring Framework
+#          external_url: https://talk.jekyllrb.com
+#        - title: Javascript
+#          url: /tag_troubleshooting.html
+#          output: web   
+#        - title: Java
+#          url: /tag_troubleshooting.html
+#          output: web
+#        - title: Swing
+#          url: /tag_troubleshooting.html
+#          output: web         
